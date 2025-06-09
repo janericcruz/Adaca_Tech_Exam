@@ -11,7 +11,7 @@ Selected sample web application: [TodoMVC React App](https://todomvc.com/example
 
 1. **Clone the repository:**
 
-git clone 
+git clone https://github.com/janericcruz/Adaca_Tech_Exam.git
 cd todo-tests
 
 2. Install dependencies(tools):
