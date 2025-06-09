@@ -60,7 +60,7 @@ This covers:
 
 ###Assumptions:
 -On this simple to-do web application I found, there is no login functionality exists on the test site.
--However, I tried to add a test if it has a login feature. (apologies but I cannot make it working)
+-However, I tried to add a test if it has a login feature. (Apologies, it is just my workaround with the requirements but I still did not make it work due to time constraint.)
 -Test assumes the page loads and is ready when the test starts
 -One utility function is shared to manipulate strings (e.g., add timestamp)
 
