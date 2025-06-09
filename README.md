@@ -9,6 +9,9 @@ Selected sample web application: [TodoMVC React App](https://todomvc.com/example
 
 ###Setup Instructions
 
+IDE: VS Code
+https://code.visualstudio.com/download
+
 1. **Clone the repository:**
 
 git clone https://github.com/janericcruz/Adaca_Tech_Exam.git
@@ -57,7 +60,7 @@ This covers:
 
 ###Assumptions:
 -On this simple to-do web application I found, there is no login functionality exists on the test site.
--However, I tried to add a test if it has a login feature. (Not working)
+-However, I tried to add a test if it has a login feature. (apologies but I cannot make it working)
 -Test assumes the page loads and is ready when the test starts
 -One utility function is shared to manipulate strings (e.g., add timestamp)
 
